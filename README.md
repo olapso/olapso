@@ -13,8 +13,9 @@
 ### 👀 I am seeking opportunities to collaborate on projects focusing on data analysis and visualization to gain practical experience and enhance my skill set.
 
 ### 👩‍🍳 Outside of my role as a data analyst, you'll often find me playing musical instruments.
+# Social Media
 
 ### 📤 feel free to reach me on <a href="https://www.linkedin.com/in/olapso">linkedin</a> 
 
 ### 💼 Check out my <a href="https://www.datascienceportfol.io/olapso">portfolio</a>
-### [facebook](https://www.facebook.com/olapade.oluwaseun)
+### [facebook](https://www.facebook.com/olapade.oluwaseun) [instagram](https://www.instagram.com/olapadeoluwaseun/) [twitter](https://twitter.com/olapso)
