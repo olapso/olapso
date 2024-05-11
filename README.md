@@ -1,4 +1,4 @@
-### ✌️ Hi, I am Sunday Oluwaseun Olapade, a passionate individual in the realm of healthcare and technology
+# ✌️ Hi, I am Sunday Oluwaseun Olapade, a passionate individual in the realm of healthcare and technology
 
 ### 🤓 I am a Physiotherapist and a Data Analyst!
 
@@ -17,3 +17,4 @@
 ### 📤 feel free to reach me on <a href="https://www.linkedin.com/in/olapso">linkedin</a> 
 
 ### 💼 Check out my <a href="https://www.datascienceportfol.io/olapso">portfolio</a>
+### [facebook](https://www.facebook.com/olapade.oluwaseun)
